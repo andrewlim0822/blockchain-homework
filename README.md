@@ -11,4 +11,4 @@
 
 * Check Balance and send transaction. Please refer to screenshots.
 
-* There were a quite few errors I encountered: 1. The TX Status was infinitely pending. 2. Could not push fully into github due to github's max limit capacity. 
+* There were a 2 errors I encountered: 1. The TX Status was infinitely pending. 2. Could not push fully into github due to github's max limit capacity. 
